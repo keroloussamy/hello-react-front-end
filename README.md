@@ -14,6 +14,7 @@ To get a local copy up and running follow these simple example steps.
 - Click on the top right green "code" button.
 - On the dropdown menu, choose "download with zip" button.
 - After download, extract the zip file and you have the project on your machine.
+- Run the [backend app](https://github.com/keroloussamy/hello-rails-back-end) on the default port `3000` and the front app on any port.
 - Execute `npm i` to install the required packages.
 - Execute `npm start` to run the project.
 
